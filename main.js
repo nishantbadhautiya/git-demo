@@ -8,3 +8,4 @@ console.log('Branch: branch01, commit: commit#102')
 
 console.log('******************************')
 console.log('Branch: Main, Commit: commit#2 ')
+console.log('This will cause a merge conflict #1 ')
